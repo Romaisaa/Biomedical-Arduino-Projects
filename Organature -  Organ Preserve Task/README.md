@@ -1,4 +1,15 @@
 # Organture Application
+
+# Table of Contents
+1. [Description](#a--description)
+2. [Circuit Components](#b--circuit-components)
+3. [Thermistor Sensor](#c-thermistor-sensor)
+4. [Circuit and Calculations](#d--circuit-and-its-calculations)
+3. [Simulation Link](#e---simulation-link)
+4. [Mobile App](#f---mobile-application)
+4. [Schematic Diagram](#g---schematic-diagram)
+4. [Hardware Snapshot](#h--hardware-snapshot)
+
 ## A- Description
 Organ preservation is the baseline for a successful
 organ transplant operation. So, in Emergency cases,
